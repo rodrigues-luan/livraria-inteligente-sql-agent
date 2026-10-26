@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+psycopg[binary]>=3.1
+python-dotenv
+openai
+anthropic
+streamlit
